@@ -12,4 +12,4 @@ You can find;
 
 - the data in 'data' folder
 - the presentation in 'Moosic'
-- notebooks in 'songs_collection.ipynb' and 'K_Means.jpynb'
+- notebooks in '.ipynb extension'
