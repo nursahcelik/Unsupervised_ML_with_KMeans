@@ -7,3 +7,9 @@ This project was desgined to answer the following questions:
 - Is K-Means a good method to create playlists? Would you stick with this algorithm moving forward, or explore other methods to create playlists?
 
 *The purpose:* Use Data Science to add a degree of automatisation to the creation of playlists and use a basic clustering algorithm such as K-Means to divide the dataset into a few clusters (which will become playlists).
+
+You can find;
+
+- the data in 'data' folder
+- the presentation in 'Moosic'
+- notebooks in 'songs_collection.ipynb' and 'K_Means.jpynb'
